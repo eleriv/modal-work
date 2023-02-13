@@ -2,7 +2,6 @@
   <div class="container">
     <popup></popup>
   </div>
-    
 </template>
 
 <script>
@@ -16,10 +15,4 @@ export default {
     ABPopupForm
   }
 }
-
 </script>
-<style>
-#app{
-  display:block !important;
-}
-</style>

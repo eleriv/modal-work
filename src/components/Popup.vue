@@ -14,10 +14,10 @@
 
 <script setup>
 import { ref } from 'vue'
-import ABPopupForm from './ABPopupForm.vue'
 
 const isOpen = ref(false)
 </script>
+
 <style scoped>
 .root {
     position: relative;

@@ -23,7 +23,6 @@ function submitForm() {
   console.log(valueA.value)
   console.log(valueB.value)
 }
-
 </script>
 
 <style scoped>
